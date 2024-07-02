@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Registration Page README</title>
-</head>
-<body>
 
 <h1>Registration Page</h1>
 
@@ -46,25 +38,5 @@
 <h2>Usage</h2>
 <p>To use this registration form, simply clone the repository and open the <code>index.html</code> file in your preferred web browser. The form is designed to be simple and straightforward, ensuring ease of use for users.</p>
 
-<h3>Cloning the Repository</h3>
-<pre>
-<code>git clone https://github.com/yourusername/registration-page.git
-cd registration-page
-open index.html
-</code>
-</pre>
 
-<h2>Screenshot</h2>
-<p><img src="screenshot.png" alt="Registration Page Screenshot"></p>
 
-<h2>License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-
-<h2>Contributions</h2>
-<p>Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.</p>
-
-<h2>Contact</h2>
-<p>For any questions or further information, please contact me at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
-
-</body>
-</html>
